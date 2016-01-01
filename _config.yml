@@ -6,13 +6,13 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.9792864397041801
-  lightness: 0.5950563459244789
-  rhythmicContrast: 0.6358261207217593
-  saturation: 0.48900687501780826
+  brandStrength: 0.709459
+  lightness: 0.222972
+  rhythmicContrast: 0.635826
+  saturation: 0.734234
 cta: {}
-layout_spectrum: 0.03033608444774516
+layout_spectrum: 0.740991
 name: pat
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.7134069744502657
+typography_spectrum: 0.713406
